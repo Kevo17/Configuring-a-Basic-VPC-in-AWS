@@ -1,4 +1,4 @@
-<h1>Configuring a Custom Domain with Cognito</h1>
+<h1>Configuring a Basic VPC in AWS</h1>
 
 
 <h2>Description</h2>
