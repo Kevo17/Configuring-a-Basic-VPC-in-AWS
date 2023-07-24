@@ -26,7 +26,7 @@ Scroll down and click Create VPC
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/zvvF6rZ.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/kSXizka.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -45,7 +45,7 @@ Under the Subnet settings, set the following fields:
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/zvvF6rZ.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/eLid6gm.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -62,7 +62,7 @@ Under Subnet 2 of 2, set the following fields:
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/zvvF6rZ.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/qRHU7Pw.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -76,7 +76,7 @@ Under Subnet 2 of 2, set the following fields:
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/zvvF6rZ.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/TlWjBWG.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -90,7 +90,7 @@ Under Subnet 2 of 2, set the following fields:
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/zvvF6rZ.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/ThqVnKM.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -104,7 +104,7 @@ Under Subnet 2 of 2, set the following fields:
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/zvvF6rZ.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/eiHxQPF.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -118,7 +118,7 @@ Under Subnet 2 of 2, set the following fields:
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/zvvF6rZ.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/anNi1qQ.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -133,7 +133,7 @@ Under Subnet 2 of 2, set the following fields:
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/zvvF6rZ.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/9Rkw6Wq.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -148,7 +148,7 @@ Under Subnet 2 of 2, set the following fields:
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/zvvF6rZ.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/SUFUNwO.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -187,8 +187,11 @@ Under Subnet 2 of 2, set the following fields:
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/zvvF6rZ.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/720nqc1.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/L0zyrtg.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
+<img src="https://i.imgur.com/adD7xuu.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/NLDvFl5.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 
 <br />
 <br />
@@ -219,7 +222,9 @@ Under Subnet 2 of 2, set the following fields:
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/zvvF6rZ.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/YEHsYYs.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/suwq3Vw.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/pj0CWj2.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -229,7 +234,7 @@ Ssh into the hol-pub-instance
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/zvvF6rZ.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/ZyZ72ky.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -239,7 +244,7 @@ On the public instance, create a private key, as that will be used for the SSH c
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/zvvF6rZ.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/p5dYblK.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -249,7 +254,7 @@ Paste the contents of the vpcprivhol.pem into the file and enter :wq
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/zvvF6rZ.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/v3qWM0e.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -259,7 +264,7 @@ Run chmod 400 vpcprivhol.pem to ensure your key is not publicly viewable
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/zvvF6rZ.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/cTmCnpg.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -269,7 +274,7 @@ Copy the private IPv4 address of the instanceof the hol-priv-instance
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/zvvF6rZ.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/MXEqo3T.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -279,7 +284,7 @@ Back in the terminal, run ssh -i "vpcprivhol.pem" ec2-user@<PRIVATE IP> making s
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/zvvF6rZ.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/MVgt0FJ.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -297,7 +302,7 @@ Back in the terminal, run ssh -i "vpcprivhol.pem" ec2-user@<PRIVATE IP> making s
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/zvvF6rZ.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/Vtn0vhe.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -310,7 +315,7 @@ You should receive an error.
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/zvvF6rZ.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/ODHQ9xM.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -323,7 +328,7 @@ You should receive an error.
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/zvvF6rZ.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/J8Ku0Dl.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -336,7 +341,7 @@ You should be able to connect now.
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/zvvF6rZ.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/ERscZJw.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
