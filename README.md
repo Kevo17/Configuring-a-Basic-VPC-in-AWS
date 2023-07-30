@@ -9,6 +9,7 @@ In this hands-on lab scenario, you’re a cloud network engineer tasked with set
 
 - <b>Windows 11</b>
 - <b>AWS</b>
+- <b>Linux</b>
   
 <h2>Program walk-through:</h2>
 
